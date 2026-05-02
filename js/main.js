@@ -83,7 +83,7 @@ const projects = [
     title: "Calculator App",
     stack: "HTML, CSS, JavaScript",
     liveLink: "https://rasheed197.github.io/calculator/",
-    gitHub: "https://github.com/rasheed197/calculator",
+    gitHubLink: "https://github.com/rasheed197/calculator",
   },
 
   {
@@ -93,7 +93,7 @@ const projects = [
     title: "Todo App",
     stack: "HTML, CSS, JavaScript",
     liveLink: "https://rasheed197.github.io/todo/",
-    gitHub: "https://github.com/rasheed197/todo",
+    gitHubLink: "https://github.com/rasheed197/todo",
   },
 
   {
@@ -103,7 +103,7 @@ const projects = [
     title: "Portfolio",
     stack: "HTML, CSS, JavaScript",
     liveLink: "https://rasheed197.github.io/portfolio/",
-    gitHub: "https://github.com/rasheed197/portfolio",
+    gitHubLink: "https://github.com/rasheed197/portfolio",
   },
 
   {
@@ -113,7 +113,7 @@ const projects = [
     title: "CSS Flexbox",
     stack: "HTML, CSS",
     liveLink: "https://rasheed197.github.io/cssflexbox/",
-    gitHub: "https://github.com/rasheed197/cssflexbox",
+    gitHubLink: "https://github.com/rasheed197/cssflexbox",
   },
 
   {
@@ -123,7 +123,7 @@ const projects = [
     title: "Grid Testimonial",
     stack: "HTML, CSS",
     liveLink: "https://rasheed197.github.io/testimonial-grid/",
-    gitHub: "https://github.com/rasheed197/testimonial-grid",
+    gitHubLink: "https://github.com/rasheed197/testimonial-grid",
   },
 
   {
