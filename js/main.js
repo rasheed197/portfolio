@@ -78,7 +78,7 @@ window.addEventListener("scroll", () => {
 const projects = [
   {
     id: 1,
-    img: "/images/calculator.png",
+    img: "images/calculator.png",
     alt: "calculator image",
     title: "Calculator App",
     stack: "HTML, CSS, JavaScript",
@@ -88,7 +88,7 @@ const projects = [
 
   {
     id: 2,
-    img: "/images/todo.png",
+    img: "images/todo.png",
     alt: "todo image",
     title: "Todo App",
     stack: "HTML, CSS, JavaScript",
@@ -98,7 +98,7 @@ const projects = [
 
   {
     id: 3,
-    img: "/images/portfolio.png",
+    img: "images/portfolio.png",
     alt: "portfolio image",
     title: "Portfolio",
     stack: "HTML, CSS, JavaScript",
@@ -108,7 +108,7 @@ const projects = [
 
   {
     id: 4,
-    img: "/images/flexbox.png",
+    img: "images/flexbox.png",
     alt: "flexbox image",
     title: "CSS Flexbox",
     stack: "HTML, CSS",
@@ -118,7 +118,7 @@ const projects = [
 
   {
     id: 5,
-    img: "/images/testimonial.png",
+    img: "images/testimonial.png",
     alt: "testimonial image",
     title: "Grid Testimonial",
     stack: "HTML, CSS",
@@ -128,7 +128,7 @@ const projects = [
 
   {
     id: 6,
-    img: "/images/ishadeed.png",
+    img: "images/ishadeed.png",
     alt: "ishadeed image",
     title: "Ishadeed Store",
     stack: "HTML, CSS, Bootstrap",
