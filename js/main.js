@@ -128,7 +128,7 @@ const projects = [
 
   {
     id: 6,
-    img: "/images/chat.png",
+    img: "images/chat.png",
     alt: "chat image",
     title: "Chat App",
     stack: "HTML, Bootstrap, JavaScript",
@@ -137,7 +137,7 @@ const projects = [
   },
   {
     id: 7,
-    img: "/images/ishadeed.png",
+    img: "images/ishadeed.png",
     alt: "ishadeed image",
     title: "Ishadeed Store",
     stack: "HTML, CSS, Bootstrap",
