@@ -128,7 +128,16 @@ const projects = [
 
   {
     id: 6,
-    img: "images/ishadeed.png",
+    img: "/images/chat.png",
+    alt: "chat image",
+    title: "Chat App",
+    stack: "HTML, Bootstrap, JavaScript",
+    liveLink: "https://rasheed197.github.io/web-chat-bootstrap/",
+    gitHubLink: "https://github.com/rasheed197/web-chat-bootstrap",
+  },
+  {
+    id: 7,
+    img: "/images/ishadeed.png",
     alt: "ishadeed image",
     title: "Ishadeed Store",
     stack: "HTML, CSS, Bootstrap",
