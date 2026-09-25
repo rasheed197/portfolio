@@ -128,7 +128,7 @@ const projects = [
 
   {
     id: 6,
-    img: "/images/chat.png",
+    img: "images/chat.png",
     alt: "chat image",
     title: "Chat App",
     stack: "HTML, Bootstrap, JavaScript",
@@ -137,7 +137,7 @@ const projects = [
   },
   {
     id: 7,
-    img: "/images/ishadeed.png",
+    img: "images/ishadeed.png",
     alt: "ishadeed image",
     title: "Ishadeed Store",
     stack: "HTML, CSS, Bootstrap",
@@ -146,7 +146,7 @@ const projects = [
   },
   {
     id: 8,
-    img: "/images/feedback.png",
+    img: "images/feedback.png",
     alt: "feedback app image",
     title: "Feedback App",
     stack: "Reactjs, Context API, Nodejs",
@@ -155,7 +155,7 @@ const projects = [
   },
   {
     id: 9,
-    img: "/images/support-desk.png",
+    img: "images/support-desk.png",
     alt: "support desk image",
     title: "Support Desk",
     stack: "Reactjs, React Redux, Nodejs",
