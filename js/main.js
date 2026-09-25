@@ -174,7 +174,7 @@ const projects = [
   },
 ];
 
-projectHeading.innerHTML = "My Projects" + projects.length
+projectHeading.innerHTML = "My Projects " + '(' + projects.length + ')'
 
 // Add the projects to you HTML
 const projectsContainer = document.querySelector(".swiper-wrapper");
