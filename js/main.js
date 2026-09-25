@@ -1,6 +1,7 @@
 // toggle mobile menus
 const headerBars = document.querySelector(".header-bars");
 const mobileMenus = document.querySelector(".mobile-menus");
+const projectHeading = document.querySelector("#project-heading");
 
 const overlay = document.querySelector(".overlay");
 
@@ -162,7 +163,18 @@ const projects = [
     liveLink: "https://support-desk-green-eight.vercel.app",
     gitHubLink: "https://github.com/rasheed197/support-desk",
   },
+  {
+    id: 10,
+    img: "images/property.png",
+    alt: "property app image",
+    title: "Property App",
+    stack: "Nextjs, Context API, MongoDB",
+    liveLink: "https://property-phi-seven.vercel.app",
+    gitHubLink: "https://github.com/rasheed197/property",
+  },
 ];
+
+projectHeading.innerHTML = "My Projects" + projects.length
 
 // Add the projects to you HTML
 const projectsContainer = document.querySelector(".swiper-wrapper");
